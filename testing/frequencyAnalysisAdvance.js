@@ -1,5 +1,5 @@
 // import words list and answer list
-import { possibleWords } from './../data/Words.js'; 
+import { possibleWords } from './../data/words.js'; 
 import { possibleAnswers } from './../data/answers.js';
 import { wordsLength, numberOfTries,
     colDiv, colSpan, tableCol,
